@@ -1,9 +1,9 @@
 # Параметры из my.telegram.org
-api_id = 12945023
-api_hash = 'e53b2e448538b6d5c211b2c90ba4441f'
+api_id = 123456789
+api_hash = '**********'
 
 # Бот из @BotFather
-bot_token = '5669767405:AAF3uVXQExDeh3UWcNyHWyvCEKSbYq3l3z8'
+bot_token = '****************'
 
 # id канала куда будут сливаться все новости
 kgh_chat_id = -1001561131709
